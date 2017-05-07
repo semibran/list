@@ -1,0 +1,11 @@
+{
+  "name": "array",
+  "version": "0.0.0",
+  "description": "Fast and functional array operations",
+  "license": "MIT",
+  "author": "Brandon Semilla (https://github.com/semibran)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semibran/array.git"
+  }
+}
