@@ -1,4 +1,4 @@
-# maze
+# array
 > Fast and functional array operations
 
 ## install
