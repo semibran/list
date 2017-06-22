@@ -53,5 +53,8 @@ Finds the first index where `list[index] === item`, or `undefined` if no item is
 undefined
 ```
 
+## special thanks
+- [leo](https://github.com/leo) - for donating the package name
+
 ## license
 [MIT](https://opensource.org/licenses/MIT) © [Brandon Semilla](https://git.io/semibran)
