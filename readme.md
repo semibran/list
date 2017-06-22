@@ -3,7 +3,7 @@
 
 ## install
 ```sh
-npm install semibran/list
+npm install list
 ```
 
 ## usage
