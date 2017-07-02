@@ -1,14 +1,15 @@
 # list
 > Lightweight and context-free array operations
 
-## install
-```sh
-npm install list
-```
-
 ## usage
+[![NPM](https://nodei.co/npm/list.png?mini)](https://www.npmjs.com/package/list)
 ```js
+// ES6:
 const { append, insert, remove, locate } = require('list')
+```
+```js
+// ES5:
+var append = require('list/append')
 ```
 
 ### `append(list, item)`
@@ -53,7 +54,10 @@ Finds the first index where `list[index] === item`, or `undefined` if no item is
 undefined
 ```
 
-## special thanks
+## see also
+- [`semibran/map`](https://github.com/semibran/map) - simple key-value maps
+
+## kudos
 - [leo](https://github.com/leo) - for donating the package name
 
 ## license
